@@ -1,0 +1,163 @@
+[
+  {
+    "id": "gemini-3.8-flash",
+    "title": "Gemini 3.8 Flash",
+    "tier": "High",
+    "is_fast": false,
+    "has_arrow": false,
+    "display_name": "Gemini 3.8 Flash High",
+    "proto_enum": "MODEL_PLACEHOLDER_M318",
+    "cli_tier": "flash",
+    "is_default": true,
+    "quota": 0.076845065,
+    "variants": [
+      {
+        "id": "gemini-3.8-flash-high",
+        "title": "Gemini 3.8 Flash (High)",
+        "tier": "High",
+        "proto_enum": "MODEL_PLACEHOLDER_M318"
+      },
+      {
+        "id": "gemini-3.8-flash-medium",
+        "title": "Gemini 3.8 Flash (Medium)",
+        "tier": "Medium",
+        "proto_enum": "MODEL_PLACEHOLDER_M319"
+      },
+      {
+        "id": "gemini-3.8-flash-low",
+        "title": "Gemini 3.8 Flash (Low)",
+        "tier": "Low",
+        "proto_enum": "MODEL_PLACEHOLDER_M320"
+      }
+    ]
+  },
+  {
+    "id": "gemini-3.7-flash",
+    "title": "Gemini 3.7 Flash",
+    "tier": "Medium",
+    "is_fast": false,
+    "has_arrow": true,
+    "display_name": "Gemini 3.7 Flash Medium",
+    "proto_enum": "MODEL_PLACEHOLDER_M299",
+    "cli_tier": "flash",
+    "is_default": false,
+    "quota": 0.076845065,
+    "variants": [
+      {
+        "id": "gemini-3.7-flash-high",
+        "title": "Gemini 3.7 Flash (High)",
+        "tier": "High",
+        "proto_enum": "MODEL_PLACEHOLDER_M298"
+      },
+      {
+        "id": "gemini-3.7-flash-medium",
+        "title": "Gemini 3.7 Flash (Medium)",
+        "tier": "Medium",
+        "proto_enum": "MODEL_PLACEHOLDER_M299"
+      },
+      {
+        "id": "gemini-3.7-flash-low",
+        "title": "Gemini 3.7 Flash (Low)",
+        "tier": "Low",
+        "proto_enum": "MODEL_PLACEHOLDER_M300"
+      }
+    ]
+  },
+  {
+    "id": "gemini-3.6-flash",
+    "title": "Gemini 3.6 Flash",
+    "tier": "Medium",
+    "is_fast": true,
+    "has_arrow": true,
+    "display_name": "Gemini 3.6 Flash Medium",
+    "proto_enum": "MODEL_PLACEHOLDER_M72",
+    "cli_tier": "flash",
+    "is_default": false,
+    "quota": 0.076845065,
+    "variants": [
+      {
+        "id": "gemini-3.6-flash-high",
+        "title": "Gemini 3.6 Flash (High)",
+        "tier": "High",
+        "proto_enum": "MODEL_PLACEHOLDER_M71"
+      },
+      {
+        "id": "gemini-3.6-flash-medium",
+        "title": "Gemini 3.6 Flash (Medium)",
+        "tier": "Medium",
+        "proto_enum": "MODEL_PLACEHOLDER_M72"
+      },
+      {
+        "id": "gemini-3.6-flash-low",
+        "title": "Gemini 3.6 Flash (Low)",
+        "tier": "Low",
+        "proto_enum": "MODEL_PLACEHOLDER_M73"
+      }
+    ]
+  },
+  {
+    "id": "gemini-3.1-pro",
+    "title": "Gemini 3.1 Pro",
+    "tier": "Low",
+    "is_fast": false,
+    "has_arrow": true,
+    "display_name": "Gemini 3.1 Pro Low",
+    "proto_enum": "MODEL_PLACEHOLDER_M36",
+    "cli_tier": "pro",
+    "is_default": false,
+    "quota": 0.076845065,
+    "variants": [
+      {
+        "id": "gemini-3.1-pro-high",
+        "title": "Gemini 3.1 Pro (High)",
+        "tier": "High",
+        "proto_enum": "MODEL_PLACEHOLDER_M16"
+      },
+      {
+        "id": "gemini-3.1-pro-low",
+        "title": "Gemini 3.1 Pro (Low)",
+        "tier": "Low",
+        "proto_enum": "MODEL_PLACEHOLDER_M36"
+      }
+    ]
+  },
+  {
+    "id": "claude-sonnet-4.6-thinking",
+    "title": "Claude Sonnet 4.6 (Thinking)",
+    "tier": null,
+    "is_fast": false,
+    "has_arrow": false,
+    "display_name": "Claude Sonnet 4.6 (Thinking)",
+    "proto_enum": "MODEL_PLACEHOLDER_M35",
+    "cli_tier": "pro",
+    "is_default": false,
+    "quota": 0.9827124,
+    "variants": []
+  },
+  {
+    "id": "claude-opus-4.6-thinking",
+    "title": "Claude Opus 4.6 (Thinking)",
+    "tier": null,
+    "is_fast": false,
+    "has_arrow": false,
+    "display_name": "Claude Opus 4.6 (Thinking)",
+    "proto_enum": "MODEL_PLACEHOLDER_M26",
+    "cli_tier": "pro",
+    "is_default": false,
+    "quota": 0.9827124,
+    "variants": []
+  },
+  {
+    "id": "gpt-oss-120b-medium",
+    "title": "GPT-OSS 120B (Medium)",
+    "tier": null,
+    "is_fast": false,
+    "has_arrow": false,
+    "display_name": "GPT-OSS 120B (Medium)",
+    "proto_enum": "MODEL_OPENAI_GPT_OSS_120B_MEDIUM",
+    "cli_tier": "flash",
+    "is_default": false,
+    "quota": 0.9827124,
+    "variants": []
+  }
+]

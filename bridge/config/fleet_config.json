@@ -1,0 +1,23 @@
+{
+  "gateway": {
+    "host": "0.0.0.0",
+    "port": 8765,
+    "pairing_token": null,
+    "require_auth": true
+  },
+  "fleet": {
+    "total_accounts": 15,
+    "base_port": 53001,
+    "profiles_dir": null,
+    "binary_path": null,
+    "default_mode": "single_account"
+  },
+  "workspaces": {
+    "default_root": null,
+    "allowed_roots": []
+  },
+  "execution": {
+    "default_tool_policy": "request_review",
+    "allow_sandbox": true
+  }
+}

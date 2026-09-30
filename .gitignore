@@ -1,0 +1,97 @@
+# ==============================================================================
+# Git Ignore - Antigravity Mobile & Multi-Account Fleet Orchestrator
+# ==============================================================================
+
+# Private Credentials, Vaults & Local Profile Storage (CRITICAL - DO NOT COMMIT)
+.antigravity-fleet/
+bridge_token.txt
+auth_vault.json
+tokens.json
+credentials.json
+*.pbtxt
+*.key
+*.pem
+*.token
+*.cookie
+
+# Temporary Screenshots, Test Captures & Scratch Dumps
+screen*.png
+phone_*.png
+desktop_*.png
+extracted_*.png
+official_antigravity_preview.png
+asar_icon.png
+chat_*.png
+arch_preview.png
+pairing_qr.png
+/Demo.mp4
+*_dump*.xml
+ui_*.xml
+*.dump.xml
+/*.xml
+phone_test.json
+*.log
+scratch/
+test_captures/
+tmp/
+temp/
+
+# Build & Distribution Intermediate Artifacts
+build/
+dist/
+dist/antigravity_bridge/
+dist/portable_staging/
+dist/release/
+APP/
+*.zip
+*.tar.gz
+*.7z
+
+# Local Test Projects & External Tools Binaries
+projects/
+tools/adb/
+tools/cloudflared.exe
+
+# Python Build & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+
+# Flutter & Dart Build Outputs
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.pub-cache/
+flutter_app/.pub/
+flutter_app/android/.gradle/
+flutter_app/android/local.properties
+flutter_app/android/app/build/
+flutter_app/android/app/release/
+flutter_app/android/app/debug/
+flutter_app/android/app/profile/
+flutter_app/windows/flutter/ephemeral/
+flutter_app/build/
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.suo
+*.user
+*.userosscache

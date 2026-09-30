@@ -1,0 +1,10 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+websockets>=13.0
+pydantic>=2.8.0
+aiosqlite>=0.20.0
+requests>=2.32.0
+qrcode>=7.4.2
+pillow>=10.4.0
+pytest>=8.0.0
+pytest-asyncio>=0.24.0
