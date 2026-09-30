@@ -5,7 +5,7 @@
 # Antigravity Mobile & Windows Fleet Station: The Definitive Visual Guide
 
 This guide provides comprehensive, side-by-side visual walkthroughs for both the **Windows Fleet Command Station** and the **Android Mobile Companion**, utilizing the project's visual assets and live captures.
-A full video demonstration is also available: [**Watch Demo.mp4**](assets/Demo.mp4).
+A full video demonstration is also available: [**Watch HD Demo.mp4**](https://github.com/mohgomaa-art/antigravity-mobile/raw/master/assets/Demo.mp4) or [**Direct Download (Release v1.0.4)**](https://github.com/mohgomaa-art/antigravity-mobile/releases/download/v1.0.4/Demo.mp4).
 
 ---
 
