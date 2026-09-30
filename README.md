@@ -6,10 +6,10 @@
 
 **An unofficial, local-first Flutter/Android control plane for Antigravity, backed by a Windows Fleet Station for local execution, orchestration, and multi-slot management, with LAN/USB connectivity and optional remote tunneling.**
 
-[![Version](https://img.shields.io/badge/Release-v1.0.4-black?style=for-the-badge&logo=github)](https://github.com/mohgomaa-art/antigravity-mobile/releases)
-[![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Android-black?style=for-the-badge&logo=android)](https://github.com/mohgomaa-art/antigravity-mobile)
-[![Architecture](https://img.shields.io/badge/Architecture-Local--First-black?style=for-the-badge)](DISCLAIMER.md)
-[![License](https://img.shields.io/badge/License-Apache%202.0-black?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/badge/Release-v1.0.4-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mohgomaa-art/antigravity-mobile/releases)
+[![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Android-black?style=flat-square&logo=android&logoColor=white)](https://github.com/mohgomaa-art/antigravity-mobile)
+[![Architecture](https://img.shields.io/badge/Architecture-Local--First-black?style=flat-square)](DISCLAIMER.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-black?style=flat-square)](LICENSE)
 
 ---
 
