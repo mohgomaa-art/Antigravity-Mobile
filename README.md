@@ -23,9 +23,13 @@
 
 ## Video Demonstration
 
-> **[Watch Live Walkthrough Video (Demo.mp4)](assets/Demo.mp4)** &nbsp;|&nbsp; [Direct HD Download (v1.0.4 Releases)](https://github.com/mohgomaa-art/antigravity-mobile/releases/download/v1.0.4/Demo.mp4)
+<p align="center">
+  <a href="https://github.com/mohgomaa-art/antigravity-mobile/releases/download/v1.0.4/Demo.mp4">
+    <img src="assets/video_preview.png" alt="Antigravity Mobile Live Demonstration" width="100%" />
+  </a>
+</p>
 
-https://github.com/mohgomaa-art/antigravity-mobile/raw/master/assets/Demo.mp4
+> **[Watch Live Walkthrough Video (Demo.mp4)](assets/Demo.mp4)** &nbsp;|&nbsp; [Direct HD Download (v1.0.4 Release)](https://github.com/mohgomaa-art/antigravity-mobile/releases/download/v1.0.4/Demo.mp4)
 
 ---
 
